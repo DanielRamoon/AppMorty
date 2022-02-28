@@ -13,4 +13,4 @@ react-native run-android ( Para Iniciar o emulador )
 
 DEPENDÊNCIAS ULTILIZADAS:
 
-Foram usados nesse projeto o styled-components e o react navigation
+Foram usados nesse projeto o vector-icons, styled-components e o react navigation

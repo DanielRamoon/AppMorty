@@ -1,7 +1,8 @@
 # AppMorty
 
+RESUMO DO APP:
 
-O app se resume em três telas, onde a primeira é de boas vindas e tem o Botão para ir a outra tela, onde nesse segunda tela contem uma lista com os personagem, quando faz oscroll vai carregando mais pensonages, e que pode ser pesquisado pelo nome no campo de pesquisa que tambem se encontra na segunda tela. Ao clicar no personagem, abre outra tela com as informações do personagem.
+O app se resume em três telas, onde a primeira é de boas vindas e tem o Botão para ir a outra tela, onde nesse segunda tela contem uma lista com os personagens, quando faz o scroll vai carregando mais pensonages, e que pode ser pesquisado pelo nome no campo de pesquisa que tambem se encontra na segunda tela. Ao clicar no personagem, abre outra tela com as informações do personagem.
 
 Como abrir o app:
 

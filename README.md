@@ -11,9 +11,7 @@ vão ser utilizados dois comandos no terminal:
 react-native start ( Para isniciar o app )
 react-native run-android ( Para Iniciar o emulador )
 
-# DEPENDÊNCIAS ULTILIZADAS:
+# DEPENDÊNCIAS Utilizada:
 
 Foram usados nesse projeto o 
-+vector-icons 
-+styled-components 
-+react navigation
+vector-icons ,styled-components ,react navigation
